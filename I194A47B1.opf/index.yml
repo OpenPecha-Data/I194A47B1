@@ -1,0 +1,19 @@
+id: ae45cba0b9b24ae4a86a78e5049c4e9f
+annotation_type: index
+revision: '00001'
+annotations:
+  f6866c9cb90042be8015611790265932:
+    base: f1492.txt
+    span:
+      start: 0
+      end: 1856
+  1858f9e248b34b53ab3c8021d1bc31fc:
+    base: f8FDB.txt
+    span:
+      start: 0
+      end: 1475
+  800a2126ba554bee898bccba944cc2ec:
+    base: fE22D.txt
+    span:
+      start: 0
+      end: 1293
